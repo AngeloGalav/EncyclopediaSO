@@ -1,0 +1,4 @@
+- Aggiungere link catalogo syscall 
+- Aggiungere link catalogo concorrente
+- Spiegare cosa fa la macro GNU_SOURCE
+- spiare la differenza fra i vari exec

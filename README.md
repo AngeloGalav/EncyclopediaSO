@@ -1,6 +1,6 @@
 # A Collection of notes about Operating Systems
 
-These notes are written in Italian, so from this point on you can skip reading if you dont understand.
+These notes are written in italian, so from this point on you can skip reading if you don't understand.
 
 ## Cos'è?
 

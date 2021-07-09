@@ -1,6 +1,6 @@
 # A Collection of notes about Operating Systems
 
-These notes are written in Italian, so from this point on you can skip reading if you dont understand.
+These notes are written in italian, so from this point on you can skip reading if you don't understand.
 
 ## Cos'è?
 
@@ -8,7 +8,7 @@ These notes are written in Italian, so from this point on you can skip reading i
 
 ## Che parti mancano?
 
-Mancano le primissime lezioni su prinCples, e nel le ultime due lezioni su python del primo semestre. Del resto, ci sono tutte le lezioni.
+Mancano le primissime lezioni su prinCples, e nel le ultime due lezioni su python del primo semestre. Del resto, ci sono tutte le lezioni. Ho comunque intenzione di aggiungere le due lezioni su python siccome sono utili per la prova pratica.
 
 ## Come posso contribuire? 
 

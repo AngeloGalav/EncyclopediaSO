@@ -13,3 +13,8 @@ Mancano le primissime lezioni su prinCples, e nel le ultime due lezioni su pytho
 ## Come posso contribuire? 
 
 Beh puoi sempre fare una fork con una pull request, oppure puoi avvisarmi di alcuni errori che ho fatto o altri accorgimenti contattandomi personalmente.
+
+## Se ti sono stato d'aiuto...
+
+...puoi sempre mettere una star alla repo, oppure puoi seguirmi su GitHub ^.^
+Anche solo un "grazie" per email è davvero prezioso per me, e mi motiva ad andare avanti. In ogni caso, spero vivamente che questa mia fatica ti sia stata d'aiuto.

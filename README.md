@@ -16,5 +16,5 @@ Beh puoi sempre fare una fork con una pull request, oppure puoi avvisarmi di alc
 
 ## Se ti sono stato d'aiuto...
 
-...puoi sempre mettere una star alla repo, oppure puoi seguirmi su GitHub :relaxed: .
+...puoi sempre mettere una star alla repo, oppure puoi seguirmi su GitHub :relaxed:.
 Anche solo un "grazie" per email è davvero prezioso per me, e mi motiva ad andare avanti. In ogni caso, spero vivamente che questa mia fatica ti sia stata d'aiuto.

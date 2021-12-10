@@ -4,7 +4,7 @@ These notes are written in italian, so from this point on you can skip reading i
 
 ## Cos'è?
 
-È una raccolta di appunti presi durante le lezioni di Davoli di Sistemi Operativi. Centinaia di ore sono state spese a riguardare OGNI SINGOLA LEZIONE in modo da scrivere quasi ogni sua parola. Il tutto integrato con appunti del 2019 (parzialmente), appunti su etherpad e slides del prof.
+È una raccolta di appunti presi durante le lezioni di Davoli di Sistemi Operativi. Centinaia di ore sono state spese a riguardare OGNI SINGOLA LEZIONE in modo da scrivere quasi ogni sua parola. Il tutto integrato con appunti del 2019 (parzialmente), appunti su etherpad e slides del prof. :rage3:
 
 ## Che parti mancano?
 
@@ -16,5 +16,5 @@ Beh puoi sempre fare una fork con una pull request, oppure puoi avvisarmi di alc
 
 ## Se ti sono stato d'aiuto...
 
-...puoi sempre mettere una star alla repo, oppure puoi seguirmi su GitHub ^.^
+...puoi sempre mettere una star alla repo, oppure puoi seguirmi su GitHub :relaxed: .
 Anche solo un "grazie" per email è davvero prezioso per me, e mi motiva ad andare avanti. In ogni caso, spero vivamente che questa mia fatica ti sia stata d'aiuto.
